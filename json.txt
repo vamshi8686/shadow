@@ -1,0 +1,72 @@
+{  
+   "_class":"*********",
+   "actions":[  
+      {  
+         "_class":"***************",
+         "parameters":[  
+            {  
+               "_class":"*********",
+               "name":"regex",
+               "value":"**********"
+            },
+            {  
+               "_class":"*********",
+               "name":"*********",
+               "value":"*********"
+            },
+            {  
+               "_class":"*********",
+               "name":"*********",
+               "value":"*********"
+            },
+            {  
+               "_class":"*********",
+               "name":"*********",
+               "value":"*********"
+            }
+         ]
+      },
+      {  
+         "_class":"*********",
+         "causes":[  
+            {  
+               "_class":"*********",
+               "shortDescription":"*********",
+               "userId":null,
+               "userName":"anonymous"
+            }
+         ]
+      },
+      {  
+
+      }
+   ],
+   "artifacts":[  
+
+   ],
+   "building":false,
+   "description":null,
+   "displayName":"#4095",
+   "duration":2670,
+   "estimatedDuration":2513,
+   "executor":null,
+   "fullDisplayName":"testjob #4095",
+   "id":"4095",
+   "keepLog":false,
+   "number":4095,
+   "queueId":22092,
+   "result":"SUCCESS",
+   "timestamp":1544853780985,
+   "url":"*********",
+   "builtOn":"",
+   "changeSet":{  
+      "_class":"*********",
+      "items":[  
+
+      ],
+      "kind":null
+   },
+   "culprits":[  
+
+   ]
+}
